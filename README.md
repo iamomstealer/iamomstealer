@@ -13,7 +13,7 @@
 ## 📖 introduction :
 
 - 💻 I'm a data science enthusiast.
-- 🎨 I also YouTube Strategist.
+- 🎨 I'm also a YouTube Strategist.
 - 📱 I make jupiter notebooks.
 - 🤖 I am currently learning Machine Learning and content creation. 
 - 🌐 i am beginner and open for project contribution.
