@@ -1,5 +1,5 @@
 
-<a href="#"><img  align="center" width="500" height="500" src="[https://i.imgur.com/bhyS5B6.png](https://media.licdn.com/dms/image/v2/D4E16AQFq5B9Qzdq0PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726220324582?e=1731542400&v=beta&t=OiocJmg3OdRsK26rdZF4EGe7VWWuqwIyVrATzsSww1U)" size="25px"/></a>
+<a href="#"><img  align="center" width="500" height="500" src="https://media.licdn.com/dms/image/v2/D4E16AQFq5B9Qzdq0PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726220324582?e=1731542400&v=beta&t=OiocJmg3OdRsK26rdZF4EGe7VWWuqwIyVrATzsSww1U" size="25px"/></a>
 
 <h3 align="center">Hey there, I'm Samar</h3>
 <h3 align="center">Turning data into insights, one line of code at a time</h3>
